@@ -40,3 +40,10 @@ Make sure you have the following installed:
 1. Clone this repository:
    ```bash
    git clone [https://github.com/OpenSource012/Qt-Modern-Login-Template.git](https://github.com/OpenSource012/Qt-Modern-Login-Template.git)
+
+   ## 🤝 Support This Project
+
+If you found this UI template helpful or it saved you some time, consider buying me a coffee! ☕
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/muizz90799)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Muizz)
