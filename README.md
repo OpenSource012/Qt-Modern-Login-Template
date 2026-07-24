@@ -41,7 +41,6 @@ Make sure you have the following installed:
    ```bash
    git clone [https://github.com/OpenSource012/Qt-Modern-Login-Template.git](https://github.com/OpenSource012/Qt-Modern-Login-Template.git)
 
-   ## 🤝 Support This Project
 
 If you found this UI template helpful or it saved you some time, consider buying me a coffee! ☕
 
