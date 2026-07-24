@@ -1,9 +1,12 @@
+
+
 # Premium Qt Login UI ✨
 
 A modern, sleek, and fully animated Login/Signup UI template built with **C++** and **Qt 6**. Designed with the beautiful [Catppuccin](https://github.com/catppuccin/catppuccin) color palette, featuring smooth screen transitions and tactile mechanical buttons.
 
 ## 🎥 Video Preview
-(https://github.com/user-attachments/assets/4ee61374-d874-457d-a088-fce65ae70633)
+<video src="(https://github.com/user-attachments/assets/4ee61374-d874-457d-a088-fce65ae70633)" autoplay loop muted playsinline width="100%"></video>
+
 
 
 ## 📸 Screenshots
