@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>assets/view.png</file>
+        <file>assets/github.png</file>
+        <file>assets/google.png</file>
+        <file>assets/hide.png</file>
+        <file>assets/moon.png</file>
+        <file>assets/sun.png</file>
+        <file>assets/back.png</file>
+        <file>assets/login.png</file>
+    </qresource>
+</RCC>
